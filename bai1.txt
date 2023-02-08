@@ -1,0 +1,8 @@
+các lệnh git cơ bản
+đưa file lên git
+1. git clone + đường dẫn git
+vào folder mới tạo vào git bash here
+2.git status
+3. git add *
+4. git commit -m "..."
+5. git push
